@@ -3,7 +3,7 @@
     "rank": 1,
     "id": 101,
     "listed_at": "2014-06-16T06:07:12.000Z",
-    "notes": {},
+    "notes": null,
     "type": "movie",
     "movie": {
       "title": "Star Wars: Episode IV - A New Hope",
@@ -20,7 +20,7 @@
     "rank": 2,
     "id": 102,
     "listed_at": "2014-06-16T06:07:12.000Z",
-    "notes": {},
+    "notes": null,
     "type": "show",
     "show": {
       "title": "The Walking Dead",
@@ -38,7 +38,7 @@
     "rank": 3,
     "id": 103,
     "listed_at": "2014-06-16T06:07:12.000Z",
-    "notes": {},
+    "notes": null,
     "type": "season",
     "season": {
       "number": 1,
@@ -63,7 +63,7 @@
     "rank": 4,
     "id": 104,
     "listed_at": "2014-06-17T06:52:03.000Z",
-    "notes": {},
+    "notes": null,
     "type": "episode",
     "episode": {
       "season": 0,
@@ -72,7 +72,7 @@
       "ids": {
         "trakt": 2,
         "tvdb": 3859791,
-        "imdb": {},
+        "imdb": null,
         "tmdb": 62133
       }
     },
@@ -92,7 +92,7 @@
     "rank": 5,
     "id": 105,
     "listed_at": "2014-06-17T06:52:03.000Z",
-    "notes": {},
+    "notes": null,
     "type": "person",
     "person": {
       "name": "Garrett Hedlund",
