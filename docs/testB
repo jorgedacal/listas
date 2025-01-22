@@ -1,0 +1,55 @@
+{
+  [
+    {
+      "rank": 1,
+      "id": 1160654384,
+      "listed_at": "2025-01-22T19:10:05.000Z",
+      "notes": null,
+      "type": "movie",
+      "movie": {
+        "title": "Den of Thieves 2: Pantera",
+        "year": 2025,
+        "ids": {
+          "trakt": 449452,
+          "slug": "den-of-thieves-2-pantera-2025",
+          "imdb": "tt8008948",
+          "tmdb": 604685
+        }
+      }
+    },
+    {
+      "rank": 2,
+      "id": 1160654590,
+      "listed_at": "2025-01-22T19:10:37.000Z",
+      "notes": null,
+      "type": "movie",
+      "movie": {
+        "title": "Den of Thieves",
+        "year": 2018,
+        "ids": {
+          "trakt": 296164,
+          "slug": "den-of-thieves-2018",
+          "imdb": "tt1259528",
+          "tmdb": 449443
+        }
+      }
+    },
+    {
+      "rank": 3,
+      "id": 1160679582,
+      "listed_at": "2025-01-22T20:25:42.000Z",
+      "notes": null,
+      "type": "movie",
+      "movie": {
+        "title": "Star Wars",
+        "year": 1977,
+        "ids": {
+          "trakt": 7,
+          "slug": "star-wars-1977",
+          "imdb": "tt0076759",
+          "tmdb": 11
+        }
+      }
+    }
+  ]
+}
